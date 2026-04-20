@@ -40,10 +40,13 @@ O que aprendi:
 
 ```bash
 docker-compose up -d
-
+```
 2. Rode a aplicação com:
+```bash
 mvn spring-boot:run
+```
 (ou pela IDE)
 
-3. A API estará disponível na porta:
+4. A API estará disponível na porta:
+```
 http://localhost:8084
